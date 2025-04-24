@@ -1,0 +1,56 @@
+/*TOP BAR NECESSITIES*/
+#button-link a {
+    border: 5px, solid;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 0px, auto;
+    width: 25%;
+    background-color: black;
+    text-align: center;
+}
+
+#button-link a:hover {
+    color: red;
+}
+
+#button-link {
+    background-color:black;
+    padding: 35px;
+    border: solid rebeccapurple;
+    border-width: 5px 0px 5px 0px;
+    overflow: visible;
+}
+/*TOP BAR NECESSITIES*/
+
+body {
+    margin: 0px 0px;
+}
+.stats,
+.attack,
+.defense {
+    border: 4px solid black;
+    padding: 2px;
+    margin: 2px;
+    border-radius: 3px;
+}
+
+#table {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    flex-direction: row;
+    max-height: 1200px;
+}
+
+.stats {
+    display: flex;
+}
+.card {
+    border: 4px solid black;
+    border-radius: 10px;
+    width:200px;
+}
+
+.card img {
+    width: 95%
+}
