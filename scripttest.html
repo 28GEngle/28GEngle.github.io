@@ -3,8 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>First Website</title>
-    <link rel="stylesheet" href="css/style.css">
+    <title>Script Test</title>
 </head>
 <body>
     <nav>
@@ -16,16 +15,15 @@
             <li><a href="game/index.html">Get To School 6</a></li>
         </ul>
     </nav>
-<div style="width: 80%; margin: 0 auto; margin-top: 90px;">
-        <header>
-            <h1>My Website</h1>
-            <h3>Home Page</h3>
-        </header>
-    <footer>
-        This website was made by Grant in 2025
-    </footer>
-</div>
+    <button onclick="increase()">Increase</button><br>
+    <button id="setButton"onclick="set()">Set Variable</button>
+    <div id="varCount">0</div><br>
 </body>
+    <script>
+        var variable = 0
+        function increase() {
+            variable++;
+            document.getElementById("varCount").innerText = variable;
+        }
+    </script>
 </html>
-
-
