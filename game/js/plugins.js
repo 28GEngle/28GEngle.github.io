@@ -3,6 +3,5 @@
 var $plugins =
 [
 {"name":"AltMenuScreen","status":true,"description":"Alternative menu screen layout.","parameters":{}},
-{"name":"AltSaveScreen","status":true,"description":"Alternative save/load screen layout.","parameters":{}},
-{"name":"Formplug","status":true,"description":"Allows users to give a thumbs up, down or Wiggle to Formbar and interact with Formbar API via socket.io-client.","parameters":{"Formbar URL":"https://formbeta.yorktechapps.com/","API Key":"abfe306837f0f5313b75c87211825047cf96e3dab3346175942c12dff98987cb"}}
+{"name":"AltSaveScreen","status":true,"description":"Alternative save/load screen layout.","parameters":{}}
 ];

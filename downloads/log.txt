@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Final</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div id="sidebar">
+        <ul>
+            <li><a href="index.html">Home Page</a></li>
+            <li><a href="about.html">About Me</a></li>
+            <li><a href="log.html">Logs</a></li>
+            <li><a href="game/game.html">RPG Maker Game</a></li>
+        </ul>
+    </div>
+    <div id="barbackground"></div>
+    <div id="topbar">
+        <article>
+            <h1>Logs</h1>
+            <p>"What I did during the week to make the website :O"</p>
+        </article>
+    </div>
+    <div id="content">
+        <article>
+            <ul style="list-style: none; padding-left: 10px;">
+                <li>
+                    <details>
+                        <summary>
+                            Monday
+                        </summary>
+                        <p>Made the basic top bar and content section design (will most likely change it over time)</p>
+                        <p>Started working on the side navbar (ran into issues and class was ending)</p>
+                    </details>
+                </li>
+                <li>
+                    <details>
+                        <summary>
+                            Tuesday
+                        </summary>
+                        <p>Worked on the side bar all class and finished at the end of it</p>
+                    </details>
+                </li>
+                <li>
+                    <details>
+                        <summary>
+                            Wednesday
+                        </summary>
+                        <p>I don't think I did anything today actually... Didn't really get time to work on it.</p>
+                    </details>
+                </li>
+                <li>
+                    <details>
+                        <summary>
+                            Thursday
+                        </summary>
+                        <p>Added more stuff to about me, finalized things because i'm not so sure if we can submit it after class starts on friday</p>
+                    </details>
+                </li>
+                <li>
+                    <details>
+                        <summary>
+                            Friday
+                        </summary>
+                        <p>(Addon to thursday: we can work on it friday) Finalized some things and verified that everything was all good on the rubric compared to the site</p>
+                    </details>
+                </li>
+            </ul>
+        </article>
+    </div>
+</body>
+</html>

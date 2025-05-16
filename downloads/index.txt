@@ -24,7 +24,7 @@
     </div>
     <div id="content">
         <article>
-                <h1><a href="downloads/index.txt" download="HomeHTML" style="text-decoration: none; color: black;">Home</a></h1>
+                <h1><a href="downloads/csstext.txt" download="HomeHTML" style="text-decoration: none; color: black;">Home</a></h1>
                 <br>
                 <br>
                 <p class="spinning">A wild rubric item #1 has appeared!!!!!!</p>
@@ -36,7 +36,7 @@
                 <p>Click <button onclick="alert('I lied'); alert('something happened');">here</button> for nothing to happen</p>
                 <p>click <a href="downloads/csstext.txt" download="FinalCSS">here</a> to download the used css stylesheet as a text file (#4 on rubric)</p>
                 <p>You can click on the headers to download the current pages HTML as a text file as well if you'd like that (for example the text "home" would be a header, top left)</p>
-                <p>(If I forgot to update it to the latest version i'm sure you have some other way of seeing the stuff)</p>
+                <p>(If I forgot to update it to the latest version i'm sure you have some other way of seeing the CSS)</p>
                 <p>In my opinion, I think the general style of this site is pretty different from what you've done in class, after all the side bar is on the right! Who actually puts a side bar on the right? That took way more effort to make than I thought it would ;( (#5 on rubric)</p>
                 <p>Shrinking the page scales the images down so they fit properly, who really wants to see a giant horizontally spinning rat taking up 50% of the 200 pixel width page?</p>
                 <p>Made sure to not use those pesky absolute paths to the pc for the images (not very hard to avoid). See for yourself on the image below, the rest of the site is the same 😎😎😎😎😎😎😎😎 (#6 on rubric)</p>

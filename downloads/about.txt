@@ -24,7 +24,7 @@
     </div>
     <div id="content">
         <article>
-            <h1><a href="downloads/about.txt" download="AboutHTML" style="text-decoration: none; color: black;">About</a></h1>
+            <h1>About</h1>
             <p style="font-size: 20px;">I like doing computer stuff like this, playing computer games, and making things (I don't like making sections about me though but that doesn't really matter now). I'm in 9th grade and I'm making this site as a final for a class i'm taking about programming. I think the class went well, because obviously I made this myself without much help. (Don't murder my grade for making picture frames below because it looks too similar to the card thing we did earlier, 100% made-by-me code)</p>
             <br>
             <div style="margin: 0 auto; display: flex; justify-content: space-evenly; width: 50%; max-width: 575px;">
