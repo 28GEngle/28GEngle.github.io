@@ -28,7 +28,7 @@ div#topbar {
     border: 5px solid black;
     margin-right: 158px;
     margin-bottom: 5px;
-
+    border-radius: 25px;
 }
 
 div#topbar h1 {
@@ -114,6 +114,7 @@ div#content article {
     background-color: beige;
     border: 5px solid black;
     padding: 5px;
+    border-radius: 25px;
 }
 
 .margin5 {
