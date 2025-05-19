@@ -115,6 +115,7 @@ div#content article {
     border: 5px solid black;
     padding: 5px;
     border-radius: 25px;
+    margin-bottom: 6px;
 }
 
 .margin5 {
@@ -133,6 +134,22 @@ div#content article {
     overflow: hidden;
     width: 100%;
     max-width: 300px;
+}
+
+.split {
+    background-color: beige; 
+    max-width: 49.25%;
+    border: 5px solid black; 
+    width: 50%;
+    border-radius: 25px;
+}
+
+.right {
+    margin-right: 3px;
+}
+
+.left {
+    margin-left: 3px;
 }
 
 @keyframes catch {
